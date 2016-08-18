@@ -27,3 +27,7 @@ Branch Ave (38.826995, -76.912134)
 ```
 
 Note that only the elevator at Archives is broken at press time.
+
+## Planning
+
+![alt text](planning.jpg "Planning document")
